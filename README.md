@@ -6,10 +6,10 @@
 
 
 ## 🛠 Skills
-### 👉Languages
- **C, C++, HTML, CSS, JavaScript**
+### 👉Programming Languages
+ **C, C++, JavaScript, TypeScript**
 ### 👉Framworks
-**Tailwind CSS, React JS, Node.js, Express JS, Next.js, Typescript**
+**Tailwind CSS, React JS, Node.js, Express JS, Next.js**
 ### 👉Databases
 **Mongo DB, MySQL**
 
