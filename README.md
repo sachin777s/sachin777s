@@ -9,7 +9,7 @@
 ### 👉Programming Languages
  **C, C++, JavaScript, TypeScript**
 ### 👉Framworks
-**Tailwind CSS, React JS, Node.js, Express JS, Next.js**
+**Tailwind CSS, React JS, Node.js, Express JS**
 ### 👉Databases
 **Mongo DB, MySQL**
 
