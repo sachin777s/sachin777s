@@ -7,11 +7,11 @@
 
 ## 🛠 Skills
 ### 👉Programming Languages
- **C, C++, JavaScript, TypeScript**
+**JavaScript, TypeScript**
 ### 👉Framworks
 **Tailwind CSS, React JS, Node.js, Express JS**
 ### 👉Databases
-**Mongo DB, MySQL**
+**Mongo DB, MySQL, PostgreSQL**
 
 
 ## 💻 Personal Projects
